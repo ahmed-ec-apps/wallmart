@@ -1,0 +1,1 @@
+This is database connection file between java and db
