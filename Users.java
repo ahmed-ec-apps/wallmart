@@ -1,3 +1,4 @@
+classess iss sns
 class testdev
 {
 	public static void main(String[] args)
