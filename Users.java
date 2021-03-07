@@ -4,6 +4,7 @@ class testdev
 	{
 		testdev td = new testdev();
 		td.show();
+		td.show();
 		System.out.print("Hello DevOps Engineers.");
 	}
 	void show()
