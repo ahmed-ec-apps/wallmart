@@ -8,7 +8,6 @@ class testdev
 	}
 	void show()
 	{
-		int a=0;
 		System.out.println("Show what you have");
 	}	
 }
