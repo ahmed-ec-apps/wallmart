@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 I am testing stash command
+=======
+I am using pull command now.......
+I am fetching all details
+>>>>>>> 9c42996717e5f58bb9b76e0cd4f9b74506f1686f
 I am in master branch
 Hello this is deploy scriting files.....
 I am in Stage branch.......
